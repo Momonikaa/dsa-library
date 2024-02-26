@@ -1,0 +1,13 @@
+# Ignore compiled binay files from git tracking history
+*.exe
+*.out
+
+# Ignore LaTEX typeset log files
+*.aux
+*fdb_latexmk
+*.fls
+*.log
+*.synctex.gz
+
+# Ignore Doxygen generated HTML programs
+html/

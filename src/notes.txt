@@ -1,0 +1,42 @@
+## Data Structures to Implement
+    -> Vector (Like Arrays)
+        -> There are also containers like list, forward_list and array
+    -> Stacks and Queues
+        -> Others like Deque and Priority_Queue are a bit advanced
+    -> Set Data Structure
+        -> Can be done in many ways ==> Can Include Reb Black Tree Implementation also
+        -> We have set, multiset, unordered_set, unordered_multiset
+        -> Bisetset can also be included
+    -> Map Data Structure
+        -> We have map, multimap, unordered_map, unordered_multimap
+
+## Iterators for different Structures
+    -> Iterators can be implemented for all data structures that can be used for the algorithms later on.
+
+## Algorithms to implement
+    -> Searching Algorithms
+    -> Sorting Algorithms
+    -> Graph Algorithms
+    -> Dynammic Programming Algorithms
+
+## Some Advanced data structures
+    -> Lengthy Implementation data structures
+        -> AVL Tree and Red Black Trees
+        -> Two Three Trees (more generally B Trees or B+ Trees)
+    -> Complex Data Structures (Used in Competitive Programming)
+        -> Tries, Segment Trees (Fenwick Trees)
+        -> Suffix Array or Suffix Trees
+        -> Disjoint Set Union or Union and Find
+        -> Sparse Matrix (Did in ESC101)
+    -> Advanced Probabilistic Data Structures
+        -> Bloom Filter
+        -> Skip Lists
+        -> Treaps or Randomized Treaps
+
+## Other extra points to look at
+    -> What are some memory management protocols that can be implemented in the library.
+    -> Can we do something else or can we try to shrink the work and still get good learning output?
+    -> Flow of the whole project.
+    -> Some other decided aspects for Devansh are
+        -> Documentation procedure of the library
+        -> Testcases for robust testing of library
